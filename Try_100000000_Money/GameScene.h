@@ -10,4 +10,7 @@
 
 @interface GameScene : SKScene
 
+typedef void(^rankView)();
+@property (atomic, copy) rankView showRankView;
+
 @end
