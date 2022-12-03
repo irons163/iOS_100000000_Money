@@ -11,6 +11,6 @@
 
 @import iAd;
 
-@interface GameViewController : UIViewController<ADBannerViewDelegate>
+@interface GameViewController : UIViewController
 
 @end
