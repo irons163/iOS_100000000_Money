@@ -1,7 +1,7 @@
 //
 //  GameViewController.h
 //  Try_100000000_Money
-//
+//layoutAnimated
 
 //  Copyright (c) 2016年 irons. All rights reserved.
 //
@@ -11,6 +11,6 @@
 
 @import iAd;
 
-@interface GameViewController : UIViewController<ADBannerViewDelegate>
+@interface GameViewController : UIViewController
 
 @end
